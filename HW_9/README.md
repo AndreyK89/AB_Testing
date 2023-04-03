@@ -7,7 +7,7 @@ Python применение продвинутых методов.
 
 Mobile Games AB Testing with Cookie Cats.
   
-![](C:/Users/BETEPOK/Documents/AB_Testing/HW_9/1.jpg)
+![](https://i.ytimg.com/vi/wbwZeJfKnHo/hqdefault.jpg)
 ОБ ИГРЕ
 Cookie Cats — это красочная мобильная игра, в которой цель пользователя — собирать печенье и кормить голодных кошек.  
 В этом анализе я использую A/B-тестирование, чтобы решить, на каком уровне разместить ворота в игре.  
